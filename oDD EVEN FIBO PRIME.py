@@ -43,5 +43,3 @@ for i in range(n): #LOOP BEGINS
         print("PRIME:i=" + str(i) + "  VALUE:" + str(result_array[-1]))  # EI KETH WALA PRINT TA IGNORE MAAR
 
 print(result_array)
-
-#ANY PROBLEM DEER <3 ?.. FEEL FREE TO CALL ME AT ***REMOVED***.
